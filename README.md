@@ -22,5 +22,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=govind516&show_icons=true&locale=en" alt="govind516" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=govind516&" alt="govind516" /></p>
-
-[![Govind516's GitHub | Languages Over Time](https://stats.quine.sh/Govind516/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Govind516)
