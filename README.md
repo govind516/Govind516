@@ -1,4 +1,4 @@
-![logo](https://github.com/Govind516/Govind516/blob/main/Github_Banner.png)
+![Black Minimalist Corporate Business Profile LinkedIn Banner](https://github.com/user-attachments/assets/68e1879c-61b0-41d3-ae6e-2cc9239c57b9)
 <h1 align="center">Hi 👋, I'm Govind Gupta</h1>
 <h3 align="center">A Passionate Frontend Developer from India</h3>
 <img align="right" alt="Coder GIF" height=350 src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
