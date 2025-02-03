@@ -85,10 +85,15 @@
 </table>
 
 ### GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=govind516&show_icons=true&locale=en&layout=compact" alt="Most Used Languages" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=govind516&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
+<table>
+  <tr>
+    <td valign="top" width="38%">
+    <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=govind516&hide_border=true&layout=compact" align="center" style="width: 100%" /></div>
+    </td>
+    <td valign="top" width="50%">
+    <img src="https://github-readme-stats.vercel.app/api?username=govind516&show_icons=true&count_private=true&hide_border=true" align="left" />
+    </td>
+  </tr>
+</table>  
+<br/>  
 
