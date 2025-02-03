@@ -1,3 +1,4 @@
+![Black Minimalist Corporate Business Profile LinkedIn Banner](https://github.com/user-attachments/assets/68e1879c-61b0-41d3-ae6e-2cc9239c57b9)
 <div align="center">
   <h1>Hi 👋, I'm Govind Gupta</h1>
   <h3>Java Backend Developer | Spring Boot Dev | Scalable Systems Architect ☕🚀</h3>
@@ -12,8 +13,8 @@
 
   ### About Me:
   - 🔭 I'm currently working on [Journal App](https://github.com/govind516/journalApp)
-  - 🌱 I'm currently learning Advanced Spring Boot and Kubernetes
-  - ❓ Ask me about anything related to Spring Boot, ASP.NET and Kafka
+  - 🌱 I'm currently learning **Advanced Spring Boot** and **Kubernetes**
+  - ❓ Ask me about anything related to Spring Boot, ASP.NET and **Kafka**
   - ⚡ Fun fact: I use tabs over spaces
   - 📫 Reach me at: **guptagovind516@gmail.com**
 </div>
