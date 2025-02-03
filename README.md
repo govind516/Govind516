@@ -1,19 +1,32 @@
 ![Black Minimalist Corporate Business Profile LinkedIn Banner](https://github.com/user-attachments/assets/68e1879c-61b0-41d3-ae6e-2cc9239c57b9)
-<h1 align="center">Hi 👋, I'm Govind Gupta</h1>
-<h3 align="center">Full Stack Java Dev and Backend Dev</h3>
+# **<div align="center">Hi 👋, I'm Govind Gupta</div>**  
+  
+
+## <div align="center">Java Backend Developer | Spring Boot Dev | Scalable Systems Architect ☕🚀</div>  
+  
+
+- 🔭 I’m currently working on [Journal App](https://github.com/govind516/journalApp)  
+- 🌱 I’m currently learning Advance Spring Boot and Kubernetes  
+- ❓ Ask me about anything related to Spring Boot, ASP.NET and Kafka.  
+- ⚡ Fun fact: I use tabs over spaces
+- 📫 How to reach me **guptagovind516@gmail.com**
+
+<br/>  
 <img align="right" alt="Coder GIF" height=350 src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=govind516&label=Profile%20views&color=0e75b6&style=flat" alt="govind516" /> </p>
 
-- 🌱 I’m currently learning **Backend Developer**
-
-- 📫 How to reach me **guptagovind516@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/govind-gupta-00574223" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="govind-gupta-00574223" height="30" width="40" /></a>
-<a href="https://instagram.com/guptagovind _31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="guptagovind _31" height="30" width="40" /></a>
-</p>
-
+<div align="center">
+<a href="https://github.com/govind516" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/govindgupta1012" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/guptagovind_31" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>  
+</div> 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <!-- Java and Related -->
